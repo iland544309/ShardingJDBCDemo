@@ -20,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/filter/DataSourceConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
-              <caret line="85" column="69" lean-forward="true" selection-start-line="85" selection-start-column="69" selection-end-line="85" selection-end-column="69" />
+              <caret line="85" column="69" lean-forward="false" selection-start-line="85" selection-start-column="69" selection-end-line="85" selection-end-column="69" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2854#2874#0" expanded="true" />
@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/controller/ApiController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
-              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding>
                 <element signature="e#2517#2885#0" expanded="true" />
                 <element signature="e#2884#2885#0" expanded="true" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2302">
-              <caret line="147" column="12" lean-forward="false" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
+            <state relative-caret-position="216">
+              <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
         <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1680">
-              <caret line="136" column="77" lean-forward="true" selection-start-line="136" selection-start-column="77" selection-end-line="136" selection-end-column="77" />
+              <caret line="136" column="77" lean-forward="false" selection-start-line="136" selection-start-column="77" selection-end-line="136" selection-end-column="77" />
               <folding />
             </state>
           </provider>
@@ -108,13 +108,13 @@
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/app.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/Application.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/Application.java" />
-        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/pom.xml" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/utils/properties/ReadDruidProperties.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-database-and-table/src/main/java/com/jone/algorithm/DataBaseTimeStampAlgorithm.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/algorithm/DataBaseTimeStampAlgorithm.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/filter/DataSourceConfiguration.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/controller/ApiController.java" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/pom.xml" />
       </list>
     </option>
   </component>
@@ -974,12 +974,12 @@
       <option name="presentableId" value="Default" />
       <updated>1517476839376</updated>
       <workItem from="1517476841650" duration="3084000" />
-      <workItem from="1517480052117" duration="25990000" />
+      <workItem from="1517480052117" duration="26589000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29074000" />
+    <option name="totallyTimeSpent" value="29673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1518" y="-98" width="1553" height="954" extended-state="0" />
@@ -1465,7 +1465,7 @@
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1680">
-          <caret line="136" column="77" lean-forward="true" selection-start-line="136" selection-start-column="77" selection-end-line="136" selection-end-column="77" />
+          <caret line="136" column="77" lean-forward="false" selection-start-line="136" selection-start-column="77" selection-end-line="136" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -1481,7 +1481,7 @@
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/filter/DataSourceConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
-          <caret line="85" column="69" lean-forward="true" selection-start-line="85" selection-start-column="69" selection-end-line="85" selection-end-column="69" />
+          <caret line="85" column="69" lean-forward="false" selection-start-line="85" selection-start-column="69" selection-end-line="85" selection-end-column="69" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2854#2874#0" expanded="true" />
@@ -1508,7 +1508,7 @@
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/src/main/java/com/jone/controller/ApiController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
-          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding>
             <element signature="e#2517#2885#0" expanded="true" />
             <element signature="e#2884#2885#0" expanded="true" />
@@ -1518,8 +1518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2302">
-          <caret line="147" column="12" lean-forward="false" selection-start-line="147" selection-start-column="12" selection-end-line="147" selection-end-column="12" />
+        <state relative-caret-position="216">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding />
         </state>
       </provider>
