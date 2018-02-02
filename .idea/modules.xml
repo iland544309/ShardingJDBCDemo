@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-springboot-database-and-table/sharding-jdbc-springboot-database-and-table.iml" filepath="$PROJECT_DIR$/sharding-jdbc-springboot-database-and-table/sharding-jdbc-springboot-database-and-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/sharding-jdbc-springboot-master-and-slave-database-and-table.iml" filepath="$PROJECT_DIR$/sharding-jdbc-springboot-master-and-slave-database-and-table/sharding-jdbc-springboot-master-and-slave-database-and-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-springboot-master-slave-only-table/sharding-jdbc-springboot-master-slave-only-table.iml" filepath="$PROJECT_DIR$/sharding-jdbc-springboot-master-slave-only-table/sharding-jdbc-springboot-master-slave-only-table.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sharding-jdbc-springboot-only-table/sharding-jdbc-springboot-only-table.iml" filepath="$PROJECT_DIR$/sharding-jdbc-springboot-only-table/sharding-jdbc-springboot-only-table.iml" />
+    </modules>
+  </component>
+</project>

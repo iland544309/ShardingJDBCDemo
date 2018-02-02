@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sharding-jdbc-springboot-database-and-table:war">
+    <output-path>$PROJECT_DIR$/sharding-jdbc-springboot-database-and-table/target</output-path>
+    <root id="archive" name="ShardingJDBCDemo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="sharding-jdbc-springboot-database-and-table:war exploded" />
+    </root>
+  </artifact>
+</component>

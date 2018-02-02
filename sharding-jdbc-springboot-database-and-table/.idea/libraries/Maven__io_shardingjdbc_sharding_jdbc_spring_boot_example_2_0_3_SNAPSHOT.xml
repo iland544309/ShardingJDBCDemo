@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.shardingjdbc:sharding-jdbc-spring-boot-example:2.0.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shardingjdbc/sharding-jdbc-spring-boot-example/2.0.3-SNAPSHOT/sharding-jdbc-spring-boot-example-2.0.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shardingjdbc/sharding-jdbc-spring-boot-example/2.0.3-SNAPSHOT/sharding-jdbc-spring-boot-example-2.0.3-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/shardingjdbc/sharding-jdbc-spring-boot-example/2.0.3-SNAPSHOT/sharding-jdbc-spring-boot-example-2.0.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

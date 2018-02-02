@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sharding-jdbc-springboot-master-and-slave-database-and-table" />
+        <module name="sharding-jdbc-springboot-master-slave-only-table" />
+        <module name="ShardingJDBCDemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sharding-jdbc-springboot-master-and-slave-database-and-table" target="1.6" />
+      <module name="sharding-jdbc-springboot-master-slave-only-table" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
